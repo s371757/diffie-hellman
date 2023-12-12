@@ -23,7 +23,7 @@ Dieses Dokument enthält eine Zusammenfassung und Materialien zum Seminar "Krypt
   Eine aktuelle Auswahl von Literatur und Forschungsmaterialien ist verfügbar auf [ResearchRabbit](https://www.researchrabbitapp.com/collection/public/360WX2G26G).
 
 - **Präsentation und Vortrag**
-  - Meine Präsentation vom 13.12. ist [hier](Link_zur_Präsentation) zu finden.
+  - Meine Präsentation vom 13.12. ist [hier](https://github.com/s371757/diffie-hellman/blob/main/Diffie-Hellman%20Protokolll%20und%20Erzeuger-Generation.pptx) zu finden.
   - Ein Video meines Vortrags ist verfügbar unter [diesem Link](Link_zum_Video).
 
 ## Kontakt
